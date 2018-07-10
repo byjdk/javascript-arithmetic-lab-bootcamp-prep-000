@@ -13,5 +13,5 @@ function multiply(a,b) {
 }
 
 function inc(n) {
-  return number++
+  return number--
 }
