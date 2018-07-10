@@ -9,5 +9,5 @@ function divide(a,b) {
 }
 
 function multiply(a,b) {
-  return 
+  return a * b
 }
